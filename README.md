@@ -91,7 +91,41 @@ The application integrates with a movie database API to fetch movie details and 
 
 ## Screenshots
 Here are some screenshots that demonstrates how the website works:
+### 1. Home Page
+#### Screenshot(1)
+![Screenshot (62)](https://github.com/user-attachments/assets/debf2ded-5a95-4e3b-a998-e15583845fce) 
 
+#### Screenshot(2)
+![Screenshot (63)](https://github.com/user-attachments/assets/55343f0b-df01-41a1-8445-bd6f9e91c911)
+
+### Mobile View
+#### Screenshot(3)
+![Screenshot (65)](https://github.com/user-attachments/assets/a2ad18d9-5b5e-47d7-bdce-8be6aad247a1)
+
+#### Screenshot(4)
+![Screenshot (66)](https://github.com/user-attachments/assets/1ee6ac1d-cb61-4271-9bdf-c8169fb56406)
+
+### 2. MovieList
+After search for movies by title or words.
+#### Screenshot(5)
+![Screenshot (64)](https://github.com/user-attachments/assets/677866df-e77c-4db5-a053-233f5ce46f08)
+
+### Mobile View
+#### Screenshot(6)
+![Screenshot (67)](https://github.com/user-attachments/assets/95200ccb-1461-4110-82df-9a3bbbe349ea)
+
+#### Screenshot(7)
+![Screenshot (68)](https://github.com/user-attachments/assets/e0169914-7617-44d5-8523-de3b44eb6ebb)
+
+
+### FavoriteMovies Page
+#### Screenshot(8)
+![Screenshot (70)](https://github.com/user-attachments/assets/b0f311e6-d1a4-43f0-a360-364ab4dfab4f)
+
+
+### Mobile View
+#### Screenshot(9)
+![Screenshot (69)](https://github.com/user-attachments/assets/6a8f261e-3c1f-4689-9369-d1b0fb359342)
 
 
 ## Technologies Used
