@@ -16,7 +16,7 @@ A movie browsing application built with React and Tailwind CSS. Users can search
 - [API Integration](#api-integration)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
+- [Project Structure](#project-structure)
 - [License](#license)
 
 ## Installation
